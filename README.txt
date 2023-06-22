@@ -90,7 +90,7 @@ param[3]: {max}->{val}      : giá trị muốn lấy là data->{max}->{val}
 xlsx được in ra có dạng
 
 +-------------------+-------------------+-------------------+
-|   tt/0.750V/85C 	|	ssgnp/0.675V/125C	|	ssgnp/0.675V/-40C	|	
+|   tt/0.750V/85C   | ssgnp/0.675V/125C | ssgnp/0.675V/-40C |
 +---------+---------+---------+---------+---------+---------+
 |  Speed  | Access  |  Speed  | Access  |  Speed  | Access  |
 |  (MHz)  |  time   |  (MHz)  |  time   |  (MHz)  |  time   |
