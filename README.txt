@@ -5,7 +5,7 @@ VD : trong hash data có key là 'ip' thì value của key đó là {ip}
 
 cách viết trong param
 
-['<tên cell>'         ,'<eval>']
+['<tên cell>'           ,'<eval>']
 
 VD: 
   Instance có giá trị : $word . 'x' . $io . 'm' . $mux
